@@ -1,5 +1,3 @@
 Внутренний рынок
-[Categori] 
-[Link] 
+[Categori]
 [PU]см. Рынок  внутренний
-[Link]

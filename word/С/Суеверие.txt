@@ -1,5 +1,3 @@
 Суеверие
-[Categori] 
-[Link] 
+[Categori]
 [PU]см. Религия
-[Link]

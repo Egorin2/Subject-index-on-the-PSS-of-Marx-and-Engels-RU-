@@ -1,5 +1,3 @@
 Надстройка
-[Categori] 
-[Link] 
+[Categori]
 [PU]см. Базис и надстройка
-[Link]

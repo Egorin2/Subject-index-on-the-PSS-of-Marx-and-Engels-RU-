@@ -1,5 +1,3 @@
 Вывоз капитала
-[Categori] 
-[Link] 
+[Categori]
 [PU]см. Экспорт капитала
-[Link]

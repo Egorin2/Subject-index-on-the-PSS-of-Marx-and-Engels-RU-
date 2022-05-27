@@ -1,5 +1,3 @@
 Знамя
-[Categori] 
-[Link] 
+[Categori]
 [PU]см. Красное знамя
-[Link]

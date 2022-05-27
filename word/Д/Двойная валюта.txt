@@ -1,5 +1,3 @@
 Двойная валюта
-[Categori] 
-[Link] 
+[Categori]
 [PU]см. Биметаллизм
-[Link]

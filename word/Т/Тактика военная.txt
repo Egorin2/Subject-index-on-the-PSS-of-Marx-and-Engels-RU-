@@ -1,5 +1,3 @@
 Тактика военная
-[Categori] 
-[Link] 
+[Categori]
 [PU]см. Военное искусство
-[Link]

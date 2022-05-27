@@ -1,5 +1,3 @@
 Импорт
-[Categori] 
-[Link] 
+[Categori]
 [PU]см. Внешняя торговля
-[Link]

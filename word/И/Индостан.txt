@@ -1,5 +1,3 @@
 Индостан
-[Categori] 
-[Link] 
+[Categori]
 [PU]см. Индия
-[Link]

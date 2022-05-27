@@ -1,5 +1,3 @@
 Пресса
-[Categori] 
-[Link] 
+[Categori]
 [PU]см. Печать
-[Link]

@@ -1,5 +1,3 @@
 Вывоз товаров
-[Categori] 
-[Link] 
+[Categori]
 [PU]см. Внешняя торговля
-[Link]

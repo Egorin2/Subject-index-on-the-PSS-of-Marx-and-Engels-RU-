@@ -1,5 +1,3 @@
 Компас
-[Categori] 
-[Link] 
+[Categori]
 [PU]см. Изобретения
-[Link]

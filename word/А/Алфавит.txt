@@ -1,5 +1,3 @@
 Алфавит
-[Categori] 
-[Link] 
+[Categori]
 [PU]см. Письменность, алфавит
-[Link]

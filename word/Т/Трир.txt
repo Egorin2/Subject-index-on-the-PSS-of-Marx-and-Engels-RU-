@@ -1,3 +1,3 @@
 Трир
-[Categori] 
+[Categori]
 [Link] 1: 193; 19: 403; 21: 147

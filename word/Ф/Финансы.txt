@@ -1,5 +1,3 @@
 Финансы
-[Categori] 
-[Link] 
+[Categori]
 [PU]см.  финансы [по странам]
-[Link]

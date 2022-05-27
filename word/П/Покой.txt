@@ -1,5 +1,3 @@
 Покой
-[Categori] 
-[Link] 
+[Categori]
 [PU]см. Движение  и покой
-[Link]

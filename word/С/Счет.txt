@@ -1,3 +1,3 @@
 Счет
-[Categori] 
+[Categori]
 [Link] 1: 31; 20: 37

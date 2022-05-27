@@ -1,5 +1,3 @@
 Картельная цена
-[Categori] 
-[Link] 
+[Categori]
 [PU]см. Монопольная цена
-[Link]

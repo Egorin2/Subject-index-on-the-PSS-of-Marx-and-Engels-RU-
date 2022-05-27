@@ -1,5 +1,3 @@
 Художник
-[Categori] 
-[Link] 
+[Categori]
 [PU]см. Живопись
-[Link]

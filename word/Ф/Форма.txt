@@ -1,5 +1,3 @@
 Форма
-[Categori] 
-[Link] 
+[Categori]
 [PU]см. Содержание и форма
-[Link]

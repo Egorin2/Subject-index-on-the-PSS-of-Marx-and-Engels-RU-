@@ -1,5 +1,3 @@
 Банковская прибыль
-[Categori] 
-[Link] 
+[Categori]
 [PU]см. Банки, Прибыль
-[Link]

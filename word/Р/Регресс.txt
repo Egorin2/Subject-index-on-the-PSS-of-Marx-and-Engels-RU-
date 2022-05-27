@@ -1,5 +1,3 @@
 Регресс
-[Categori] 
-[Link] 
+[Categori]
 [PU]см. Прогресс  и регресс
-[Link]

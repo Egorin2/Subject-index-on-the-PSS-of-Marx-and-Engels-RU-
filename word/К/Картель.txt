@@ -1,5 +1,3 @@
 Картель
-[Categori] 
-[Link] 
+[Categori]
 [PU]см. Тресты
-[Link]

@@ -1,5 +1,3 @@
 Удар
-[Categori] 
-[Link] 
+[Categori]
 [PU]см. Трение  и удар
-[Link]

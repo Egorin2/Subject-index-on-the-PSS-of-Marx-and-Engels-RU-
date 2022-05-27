@@ -1,5 +1,3 @@
 Оружие
-[Categori] 
-[Link] 
+[Categori]
 [PU]см. Вооружение, оружие
-[Link]

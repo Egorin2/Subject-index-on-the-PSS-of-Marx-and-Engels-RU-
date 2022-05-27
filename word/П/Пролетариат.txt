@@ -1,5 +1,3 @@
 Пролетариат
-[Categori] 
-[Link] 
+[Categori]
 [PU]см. Рабочий класс
-[Link]

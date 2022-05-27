@@ -1,5 +1,3 @@
 Целое
-[Categori] 
-[Link] 
+[Categori]
 [PU]см. Часть и целое
-[Link]

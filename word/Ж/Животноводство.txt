@@ -1,5 +1,3 @@
 Животноводство
-[Categori] 
-[Link] 
+[Categori]
 [PU]см. Скотоводство
-[Link]

@@ -1,5 +1,5 @@
 Амеба
-[Categori] 
+[Categori]
 [Link] 20: 78, 616, 618; 36: 271
 [Categori] протамеба
 [Link] 20: 618; 36: 271
